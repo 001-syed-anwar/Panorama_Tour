@@ -12,12 +12,6 @@
             width: 600px;
             height: 400px;
         }
-
-        .custom-hotspot {
-            height: 10px;
-            width: 10px;
-            background: #ffffff;
-        }
     </style>
 </head>
 
@@ -40,7 +34,6 @@
                             "hotSpotDebug": true,
                             "pitch": -10,
                             "yaw": 250,
-                            "cssClass": "custom-hotspot",
                             "type": "scene",
                             "sceneId": "room2"
                         }]
@@ -56,7 +49,6 @@
                             "hotSpotDebug": true,
                             "pitch": -10,
                             "yaw": -60,
-                            "cssClass": "custom-hotspot",
                             "type": "scene",
                             "sceneId": "room1",
                             "targetYaw": 100
